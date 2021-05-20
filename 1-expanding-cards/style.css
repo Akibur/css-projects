@@ -30,7 +30,7 @@ body {
   flex: 0.5;
   margin: 10px;
   position: relative;
-  transition: flex 0.5s ease-in;
+  transition: flex 0.7s ease-in;
 }
 
 .panel h3 {
@@ -55,7 +55,6 @@ body {
   .container {
     width: 100vw;
   }
-
   .panel:nth-of-type(4),
   .panel:nth-of-type(5) {
     display: none;
